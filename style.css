@@ -1,4 +1,12 @@
 /* My CSS code file */ 
-h1 { color : blue; }
+h1 { 
+	font-family : arial; 
+	font-size : 70; 
+	font-weight : 500; 
+	background-image : linear-gradient(to left, #553c9a, #b393d3); 
+	color : transparent; 
+	background-clip : text; 
+	-webkit-background-clip : text 
+}
 h2 { color : green; } 
 h3 { color : red; } 
